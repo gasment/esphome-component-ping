@@ -1,3 +1,4 @@
+#Follow commit https://github.com/trombik/esphome-component-ping/pull/46/changes/af805747d6057ea80aa7782d7adfc1a6fbd31dfa
 # `esphome-component-ping`
 
 A `esphome` sensor component that sends and receives `ICMP`. It implements two
